@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\owner\Desktop\REUFinal\HandGestureApp-master3\HandGestureApp\build\intermediates\exploded-aar\HandGestureApp-master3\aFileChooser\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="45e1b8d4b9070efa29a9e2753d845325d23e13a8">
+        <dex dex="C:\Users\owner\Desktop\REUFinal\HandGestureApp-master3\HandGestureApp\build\intermediates\pre-dexed\debug\classes-8a9c249e73f625c9c9016e9aabb49afdb10a3d6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\owner\Downloads\OpenCV-3.0.0-android-sdk\OpenCV-android-sdk\samples\HandGestureApp-master3\HandGestureApp\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-8f9bac1c0763b08139f3ce44db1eca7aeed526e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner\Desktop\REUFinal\HandGestureApp-master3\HandGestureApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\owner\Desktop\REUFinal\HandGestureApp-master3\HandGestureApp\build\intermediates\pre-dexed\debug\classes-946cc615148166c71c5743cbf41defab330b2ffe.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner\Downloads\OpenCV-3.0.0-android-sdk\OpenCV-android-sdk\samples\HandGestureApp-master3\HandGestureApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\owner\Downloads\OpenCV-3.0.0-android-sdk\OpenCV-android-sdk\samples\HandGestureApp-master3\HandGestureApp\build\intermediates\pre-dexed\debug\classes-4ae09aa5a0e31c772dff9e345ff5bd68a1bfd640.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner\Downloads\OpenCV-3.0.0-android-sdk\OpenCV-android-sdk\samples\HandGestureApp-master3\HandGestureApp\build\intermediates\exploded-aar\HandGestureApp-master3\openCVLibrary249\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e21d83cd6b8f9c53275b20889a4fa75e31522d8a">
+        <dex dex="C:\Users\owner\Downloads\OpenCV-3.0.0-android-sdk\OpenCV-android-sdk\samples\HandGestureApp-master3\HandGestureApp\build\intermediates\pre-dexed\debug\classes-9e41d095c44d60c6a307ed4834f4402c81c47161.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner\Downloads\OpenCV-3.0.0-android-sdk\OpenCV-android-sdk\samples\HandGestureApp-master3\HandGestureApp\build\intermediates\exploded-aar\HandGestureApp-master3\aFileChooser\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b859d35866d9ffff214c7f01a4583e974f01c364">
+        <dex dex="C:\Users\owner\Downloads\OpenCV-3.0.0-android-sdk\OpenCV-android-sdk\samples\HandGestureApp-master3\HandGestureApp\build\intermediates\pre-dexed\debug\classes-a048a7b5dafe70249cd003da9ecee81a15ccd4f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner\Desktop\REUFinal\HandGestureApp-master3\HandGestureApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\owner\Desktop\REUFinal\HandGestureApp-master3\HandGestureApp\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-2bf41482799871963e6288abaa42bb51114e413a.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner\Downloads\OpenCV-3.0.0-android-sdk\OpenCV-android-sdk\samples\HandGestureApp-master3\HandGestureApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\owner\Downloads\OpenCV-3.0.0-android-sdk\OpenCV-android-sdk\samples\HandGestureApp-master3\HandGestureApp\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-807149fa3602d234e8bd09651eebb1febd35dcff.jar" />
+    </item>
+    <item
+        jar="C:\Users\owner\Desktop\REUFinal\HandGestureApp-master3\HandGestureApp\build\intermediates\exploded-aar\HandGestureApp-master3\openCVLibrary249\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="84e2f48a941c3a237f34c88f1d97b829795adcc0">
+        <dex dex="C:\Users\owner\Desktop\REUFinal\HandGestureApp-master3\HandGestureApp\build\intermediates\pre-dexed\debug\classes-9bad171e92262dfdfb6d0005712d42c756b22daa.jar" />
+    </item>
+
+</items>
